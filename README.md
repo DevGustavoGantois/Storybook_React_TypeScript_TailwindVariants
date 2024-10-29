@@ -2,6 +2,8 @@
 
 <p>Projeto desenvolvido com as tecnologias:</p>
 
+<p>Projeto 100% feito a fins experimentais, treinamento para criação de componentes para Design System de empresas.</p>
+
 <ul>
   <li>REACT.JS</li>
   <li>Typescript</li>
@@ -25,3 +27,4 @@
   <li>Tailwind Merge</li>
   <li>Tailwind Variants</li>
 </ul>
+
