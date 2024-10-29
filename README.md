@@ -18,6 +18,8 @@
 
 <p>Project developed with technologies:</p>
 
+<p>100% project made for experimental purposes, training for creating components for companies' Design Systems.</p>
+
 <ul>
   <li>REACT.JS</li>
   <li>Typescript</li>
